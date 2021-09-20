@@ -15,5 +15,5 @@ So with this custom connector called PSGate you can customize it to use local sm
 9.  If you need technical support at affordable price, you can contact us to set it up for you. Thanks
 
 # About The Author
-Oyeyemi Olatunde Francis
+Oyeyemi Olatunde Francis<br>
 Full-Stack Developer
