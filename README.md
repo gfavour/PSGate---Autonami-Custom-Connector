@@ -16,5 +16,4 @@ So with this custom connector called PSGate you can customize it to use local sm
 
 # About The Author
 Oyeyemi Olatunde Francis
-
 Full-Stack Developer
