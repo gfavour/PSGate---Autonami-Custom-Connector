@@ -1,0 +1,2 @@
+# PSGate---Autonami-Custom-Connector
+Autonami Plugin Custom Connector For local SMS gateway in Nigeria. Autonami is a wordpress plugin for marketing. It's use for broadcasting email/sms messages. You can automate your message with woocommerce, sign up, sign in, etc. on wordpress website. So with this custom connector called PSGate you can customize it to use local sms gateway in your country. all you need is the gatewar api or http call and their response, you account details to be integrated with it. For more information whatsapp me: +2347060624802
