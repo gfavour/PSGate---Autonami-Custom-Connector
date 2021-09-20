@@ -3,7 +3,7 @@ Autonami Plugin Custom Connector For local SMS gateway in Nigeria. Autonami is a
 
 So with this custom connector called PSGate you can customize it to use local sms gateway in your country. all you need is the gatewar api or http call and their response, you account details to be integrated with it. For more information whatsapp me: +2347060624802
 
-How To Setup PSGate
+# How To Setup PSGate
 1. Download Psgate folder
 2. Copy it into your connectors folder in wp-marketing-automations-connectors folder
 3. Open the Psgate folder
@@ -13,3 +13,7 @@ How To Setup PSGate
 7.  That is all, save and close the files.
 8.  Login to your wordpress file and start using your connector.
 9.  If you need technical support at affordable price, you can contact us to set it up for you. Thanks
+
+# About The Author
+Oyeyemi Olatunde Francis
+Full-Stack Developer
